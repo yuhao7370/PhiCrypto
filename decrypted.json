@@ -1,12 +1,95 @@
 {
     "challengemoderank": 445,
-    "playerid": "yuhao7370",
-    "scores": {
+    "content": {
+        "996.李化禹.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "996.李化禹.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "996.李化禹.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "996.李化禹.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "AfterDawn.S9ryne.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "AfterDawn.S9ryne.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "AfterDawn.S9ryne.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "AfterDawn.S9ryne.0.Record.IN": {
             "a": 99.43589782714844,
             "c": 0,
             "rks_m": 0.9750859336813705,
             "s": 943641
+        },
+        "Aleph0.LeaF.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Aleph0.LeaF.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Aleph0.LeaF.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Aleph0.LeaF.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "AnotherMe.DAAN.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "AnotherMe.DAAN.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "AnotherMe.DAAN.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "AnotherMe.DAAN.0.Record.IN": {
             "a": 99.26846313476562,
@@ -14,11 +97,101 @@
             "rks_m": 0.9677515201551127,
             "s": 976025
         },
+        "AnotherMe.NeutralMoon.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "AnotherMe.NeutralMoon.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "AnotherMe.NeutralMoon.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "AnotherMe.NeutralMoon.0.Record.IN": {
             "a": 98.42198181152344,
             "c": 0,
             "rks_m": 0.9310955577482827,
             "s": 924805
+        },
+        "AnotherMe.NeutralMoon.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "AnotherRound.JustinDai.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "AnotherRound.JustinDai.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "AnotherRound.JustinDai.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "AnotherRound.JustinDai.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Aphasia.闫东炜.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Aphasia.闫东炜.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Aphasia.闫东炜.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Aphasia.闫东炜.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Apocalypse.アリスシャッハと魔法の楽団.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Apocalypse.アリスシャッハと魔法の楽団.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Apocalypse.アリスシャッハと魔法の楽団.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "Apocalypse.アリスシャッハと魔法の楽団.0.Record.IN": {
             "a": 100.0,
@@ -26,11 +199,119 @@
             "rks_m": 1.0,
             "s": 1000000
         },
+        "Apocalyptic.ZClaxxSumaiLight.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Apocalyptic.ZClaxxSumaiLight.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Apocalyptic.ZClaxxSumaiLight.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Apocalyptic.ZClaxxSumaiLight.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Ark.kanoryo.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Ark.kanoryo.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Ark.kanoryo.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Ark.kanoryo.0.Record.IN": {
             "a": 98.49861907958984,
             "c": 0,
             "rks_m": 0.9343851169537075,
             "s": 933340
+        },
+        "Arkhei.SeraAmagi.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Arkhei.SeraAmagi.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Arkhei.SeraAmagi.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Arkhei.SeraAmagi.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Aventyr.GrandThawRigelTheatre.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Aventyr.GrandThawRigelTheatre.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Aventyr.GrandThawRigelTheatre.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Aventyr.GrandThawRigelTheatre.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "BetterGraphicAnimation.ルゼ.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "BetterGraphicAnimation.ルゼ.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "BetterGraphicAnimation.ルゼ.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "BetterGraphicAnimation.ルゼ.0.Record.IN": {
             "a": 100.0,
@@ -38,11 +319,53 @@
             "rks_m": 1.0,
             "s": 1000000
         },
+        "BonusTime.MegaloPaleWhite.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "BonusTime.MegaloPaleWhite.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "BonusTime.MegaloPaleWhite.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "BonusTime.MegaloPaleWhite.0.Record.IN": {
             "a": 99.49927520751953,
             "c": 0,
             "rks_m": 0.9778693797504013,
             "s": 967772
+        },
+        "BonusTime.MegaloPaleWhite.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "BreakThroughTheBarrier.lixound.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "BreakThroughTheBarrier.lixound.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "BreakThroughTheBarrier.lixound.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "BreakThroughTheBarrier.lixound.0.Record.IN": {
             "a": 99.65596771240234,
@@ -56,11 +379,47 @@
             "rks_m": 0.9075435291058499,
             "s": 913616
         },
+        "Burn.NceS.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Burn.NceS.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Burn.NceS.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Burn.NceS.0.Record.IN": {
             "a": 99.75247192382812,
             "c": 1,
             "rks_m": 0.9890290090335924,
             "s": 997772
+        },
+        "CROSSSOUL.HyuNfeatSyepias.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "CROSSSOUL.HyuNfeatSyepias.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "CROSSSOUL.HyuNfeatSyepias.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "CROSSSOUL.HyuNfeatSyepias.0.Record.IN": {
             "a": 97.15708923339844,
@@ -68,11 +427,95 @@
             "rks_m": 0.8776395914235646,
             "s": 898399
         },
+        "Cereris.SunsetRayNceS.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Cereris.SunsetRayNceS.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Cereris.SunsetRayNceS.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Cereris.SunsetRayNceS.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "CervelleConnexion.SCTL.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "CervelleConnexion.SCTL.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "CervelleConnexion.SCTL.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "CervelleConnexion.SCTL.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Chronologika.Hundotte.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Chronologika.Hundotte.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Chronologika.Hundotte.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Chronologika.Hundotte.0.Record.IN": {
             "a": 99.60696411132812,
             "c": 0,
             "rks_m": 0.9826080233231187,
             "s": 957932
+        },
+        "Chronomia.Lime.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Chronomia.Lime.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Chronomia.Lime.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "Chronomia.Lime.0.Record.IN": {
             "a": 99.10786437988281,
@@ -80,17 +523,89 @@
             "rks_m": 0.9607425679773505,
             "s": 949733
         },
+        "ChronosCollapseLaCampanella.SunsetRay.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ChronosCollapseLaCampanella.SunsetRay.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ChronosCollapseLaCampanella.SunsetRay.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "ChronosCollapseLaCampanella.SunsetRay.0.Record.IN": {
             "a": 99.24665832519531,
             "c": 0,
             "rks_m": 0.9667984063933708,
             "s": 967220
         },
+        "Chronostasis.黒皇帝.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Chronostasis.黒皇帝.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Chronostasis.黒皇帝.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Chronostasis.黒皇帝.0.Record.IN": {
             "a": 96.03374481201172,
             "c": 0,
             "rks_m": 0.8314904757023696,
             "s": 889909
+        },
+        "Cipher20.TetrajectoryfeatCtymax.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Cipher20.TetrajectoryfeatCtymax.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Cipher20.TetrajectoryfeatCtymax.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Cipher20.TetrajectoryfeatCtymax.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ClassMemories.AntistarfeatCtymax.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ClassMemories.AntistarfeatCtymax.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "ClassMemories.AntistarfeatCtymax.0.Record.HD": {
             "a": 99.15106201171875,
@@ -104,11 +619,47 @@
             "rks_m": 0.9870144777954556,
             "s": 997362
         },
+        "ClockParadox.WyvernP.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ClockParadox.WyvernP.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ClockParadox.WyvernP.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "ClockParadox.WyvernP.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
+        },
+        "ColorfulDays.P4koofeatつゆり花鈴.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ColorfulDays.P4koofeatつゆり花鈴.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ColorfulDays.P4koofeatつゆり花鈴.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "ColorfulDays.P4koofeatつゆり花鈴.0.Record.IN": {
             "a": 100.0,
@@ -116,11 +667,53 @@
             "rks_m": 1.0,
             "s": 1000000
         },
+        "Concvssion.Halv.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Concvssion.Halv.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Concvssion.Halv.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Concvssion.Halv.0.Record.IN": {
             "a": 99.96499633789062,
             "c": 1,
             "rks_m": 0.9984448867488974,
             "s": 999685
+        },
+        "Credits.Frums.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Credits.Frums.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Credits.Frums.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Credits.Frums.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "Cthugha.USAO.0.Record.AT": {
             "a": 97.10872650146484,
@@ -128,11 +721,101 @@
             "rks_m": 0.8756270852223051,
             "s": 897801
         },
+        "Cthugha.USAO.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Cthugha.USAO.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Cthugha.USAO.0.Record.IN": {
             "a": 96.36534118652344,
             "c": 0,
             "rks_m": 0.8449834328283912,
             "s": 926710
+        },
+        "Dash.小红Akane李祥辉.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Dash.小红Akane李祥辉.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Dash.小红Akane李祥辉.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Dash.小红Akane李祥辉.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Dash.小红Akane李祥辉.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "DataErr0r.Cosmograph.0.Record.IN": {
+            "a": 99.39640808105469,
+            "c": 0,
+            "rks_m": 0.9733536051849571,
+            "s": 965856
+        },
+        "DeadSoul.SoundSouler.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "DeadSoul.SoundSouler.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "DeadSoul.SoundSouler.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "DeadSoul.SoundSouler.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Demiurge.Rabpit.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Demiurge.Rabpit.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Demiurge.Rabpit.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "Demiurge.Rabpit.0.Record.IN": {
             "a": 100.0,
@@ -140,11 +823,47 @@
             "rks_m": 1.0,
             "s": 1000000
         },
+        "Demonkin.ForgedReigns.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Demonkin.ForgedReigns.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Demonkin.ForgedReigns.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Demonkin.ForgedReigns.0.Record.IN": {
             "a": 99.24607849121094,
             "c": 0,
             "rks_m": 0.966773067580444,
             "s": 986942
+        },
+        "Disorder.HyuNfeatYURI.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Disorder.HyuNfeatYURI.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Disorder.HyuNfeatYURI.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "Disorder.HyuNfeatYURI.0.Record.IN": {
             "a": 100.0,
@@ -152,11 +871,155 @@
             "rks_m": 1.0,
             "s": 1000000
         },
+        "Dlyrotz.Likey.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Dlyrotz.Likey.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Dlyrotz.Likey.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Dlyrotz.Likey.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "DontNeverAround.HAMA.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "DontNeverAround.HAMA.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "DontNeverAround.HAMA.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "DontNeverAround.HAMA.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
+        },
+        "Doppelganger.LeaF.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Doppelganger.LeaF.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Doppelganger.LeaF.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Doppelganger.LeaF.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Doppelganger.LeaF.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Dreamland.z1onkyrrin.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Dreamland.z1onkyrrin.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Dreamland.z1onkyrrin.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Dreamland.z1onkyrrin.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "DropIt.Asuka.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "DropIt.Asuka.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "DropIt.Asuka.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "DropIt.Asuka.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "DropIt.Asuka.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ENERGYSYNERGYMATRIX.Tanchiky.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ENERGYSYNERGYMATRIX.Tanchiky.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ENERGYSYNERGYMATRIX.Tanchiky.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "ENERGYSYNERGYMATRIX.Tanchiky.0.Record.IN": {
             "a": 99.57999420166016,
@@ -164,17 +1027,173 @@
             "rks_m": 0.9814201891457054,
             "s": 996220
         },
+        "ENERGYSYNERGYMATRIX.Tanchiky.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Electron.ElousFZ.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Electron.ElousFZ.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Electron.ElousFZ.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Electron.ElousFZ.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Eltaw.Fl00t.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Eltaw.Fl00t.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Eltaw.Fl00t.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Eltaw.Fl00t.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "EndMe.ZxNXasDelaina.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "EndMe.ZxNXasDelaina.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "EndMe.ZxNXasDelaina.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "EndMe.ZxNXasDelaina.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "EnginexStartmelodymix.CrossingSound.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "EnginexStartmelodymix.CrossingSound.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "EnginexStartmelodymix.CrossingSound.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "EnginexStartmelodymix.CrossingSound.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "EnginexStartmelodymix.CrossingSound.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "EradicationCatastrophe.NceS.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "EradicationCatastrophe.NceS.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "EradicationCatastrophe.NceS.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "EradicationCatastrophe.NceS.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
         },
+        "FULiAUTOBUSTER.MYUKKE.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "FULiAUTOBUSTER.MYUKKE.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "FULiAUTOBUSTER.MYUKKE.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "FULiAUTOBUSTER.MYUKKE.0.Record.IN": {
             "a": 99.39735412597656,
             "c": 1,
             "rks_m": 0.9733950880925275,
             "s": 994576
+        },
+        "FULiAUTOSHOOTER.MYUKKE.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "FULiAUTOSHOOTER.MYUKKE.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "FULiAUTOSHOOTER.MYUKKE.0.Record.HD": {
             "a": 99.86964416503906,
@@ -188,11 +1207,95 @@
             "rks_m": 0.9423353254836755,
             "s": 923855
         },
+        "FinalStep.Lime.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "FinalStep.Lime.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "FinalStep.Lime.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "FinalStep.Lime.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
+        },
+        "FindMe.Kforest.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "FindMe.Kforest.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "FindMe.Kforest.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "FindMe.Kforest.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "FutureMind.RayNauticaRekuMochizuki.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "FutureMind.RayNauticaRekuMochizuki.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "FutureMind.RayNauticaRekuMochizuki.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "FutureMind.RayNauticaRekuMochizuki.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GOODBOUNCE.EBIMAYO.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GOODBOUNCE.EBIMAYO.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GOODBOUNCE.EBIMAYO.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "GOODBOUNCE.EBIMAYO.0.Record.IN": {
             "a": 99.61581420898438,
@@ -200,11 +1303,47 @@
             "rks_m": 0.982997964212648,
             "s": 969844
         },
+        "GOODFORTUNE.EBIMAYO.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GOODFORTUNE.EBIMAYO.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GOODFORTUNE.EBIMAYO.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "GOODFORTUNE.EBIMAYO.0.Record.IN": {
             "a": 98.97626495361328,
             "c": 0,
             "rks_m": 0.9550182119853806,
             "s": 940143
+        },
+        "GOODRAGE.EBIMAYO.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GOODRAGE.EBIMAYO.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GOODRAGE.EBIMAYO.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "GOODRAGE.EBIMAYO.0.Record.IN": {
             "a": 97.8723373413086,
@@ -212,11 +1351,47 @@
             "rks_m": 0.9076727452380066,
             "s": 910251
         },
+        "GOODTEK.EBIMAYO.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GOODTEK.EBIMAYO.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GOODTEK.EBIMAYO.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "GOODTEK.EBIMAYO.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
+        },
+        "GOODWORLD.EBIMAYO.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GOODWORLD.EBIMAYO.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GOODWORLD.EBIMAYO.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "GOODWORLD.EBIMAYO.0.Record.IN": {
             "a": 98.36978912353516,
@@ -224,11 +1399,71 @@
             "rks_m": 0.9288585721579795,
             "s": 939646
         },
+        "GetBack.CAP3.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GetBack.CAP3.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GetBack.CAP3.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GetBack.CAP3.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GetReady.iF.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GetReady.iF.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "GetReady.iF.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "GetReady.iF.0.Record.IN": {
             "a": 98.00366973876953,
             "c": 0,
             "rks_m": 0.913242277037611,
             "s": 910727
+        },
+        "Glaciaxion.SunsetRay.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Glaciaxion.SunsetRay.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Glaciaxion.SunsetRay.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "Glaciaxion.SunsetRay.0.Record.IN": {
             "a": 100.0,
@@ -236,11 +1471,71 @@
             "rks_m": 1.0,
             "s": 1000000
         },
+        "Glaciaxion.SunsetRay.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "HAZARD.Limpid.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "HAZARD.Limpid.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "HAZARD.Limpid.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "HAZARD.Limpid.0.Record.IN": {
             "a": 99.1751708984375,
             "c": 0,
             "rks_m": 0.9636769006943998,
             "s": 960094
+        },
+        "HardcoreKwaya.EnFr.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "HardcoreKwaya.EnFr.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "HardcoreKwaya.EnFr.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "HardcoreKwaya.EnFr.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0.Record.HD": {
             "a": 100.0,
@@ -254,11 +1549,77 @@
             "rks_m": 0.9692842223750783,
             "s": 960060
         },
+        "HumaN.SOTUI.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "HumaN.SOTUI.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "HumaN.SOTUI.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "HumaN.SOTUI.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "HumaN.SOTUI.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "IMustSayNo.TangJuan.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "IMustSayNo.TangJuan.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "IMustSayNo.TangJuan.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "IMustSayNo.TangJuan.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "INFiNiTEENERZYOverdoze.RekuMochizuki.0.Record.AT": {
             "a": 97.64639282226562,
             "c": 0,
             "rks_m": 0.8981307756795008,
             "s": 945034
+        },
+        "INFiNiTEENERZYOverdoze.RekuMochizuki.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "INFiNiTEENERZYOverdoze.RekuMochizuki.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "INFiNiTEENERZYOverdoze.RekuMochizuki.0.Record.IN": {
             "a": 100.0,
@@ -272,11 +1633,41 @@
             "rks_m": 0.6564135872660044,
             "s": 833281
         },
+        "Igallta.SeURa.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Igallta.SeURa.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Igallta.SeURa.0.Record.IN": {
             "a": 97.85855102539062,
             "c": 0,
             "rks_m": 0.907089084442475,
             "s": 937603
+        },
+        "InfinityHeaven.HyuN.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "InfinityHeaven.HyuN.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "InfinityHeaven.HyuN.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "InfinityHeaven.HyuN.0.Record.IN": {
             "a": 99.23712921142578,
@@ -284,11 +1675,65 @@
             "rks_m": 0.9663820251201878,
             "s": 923455
         },
+        "Initialize.iF.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Initialize.iF.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Initialize.iF.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Initialize.iF.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
+        },
+        "Introduction.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Introduction.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Introduction.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Introduction.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "JunXionBetweenLifeAndDeathVIPMix.1N6Fs.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "JunXionBetweenLifeAndDeathVIPMix.1N6Fs.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "JunXionBetweenLifeAndDeathVIPMix.1N6Fs.0.Record.HD": {
             "a": 98.90387725830078,
@@ -302,11 +1747,77 @@
             "rks_m": 0.976441140881751,
             "s": 995201
         },
+        "Kerberos.Zris.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Kerberos.Zris.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Kerberos.Zris.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Kerberos.Zris.0.Record.IN": {
             "a": 96.80982208251953,
             "c": 0,
             "rks_m": 0.8632401099120681,
             "s": 920736
+        },
+        "KhronostasisKatharsis.Halv.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "KhronostasisKatharsis.Halv.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "KhronostasisKatharsis.Halv.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "KhronostasisKatharsis.Halv.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "KhronostasisKatharsis.Halv.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "LeaveAllBehind.rider.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "LeaveAllBehind.rider.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "LeaveAllBehind.rider.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "LeaveAllBehind.rider.0.Record.IN": {
             "a": 100.0,
@@ -314,11 +1825,47 @@
             "rks_m": 1.0,
             "s": 1000000
         },
+        "Luminescent.Daison.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Luminescent.Daison.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Luminescent.Daison.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Luminescent.Daison.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Lyrith迷宮リリス.ユメミド.0.Record.AT": {
             "a": 98.78640747070312,
             "c": 0,
             "rks_m": 0.9467898662668871,
             "s": 956715
+        },
+        "Lyrith迷宮リリス.ユメミド.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Lyrith迷宮リリス.ユメミド.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "Lyrith迷宮リリス.ユメミド.0.Record.IN": {
             "a": 98.88146209716797,
@@ -326,11 +1873,101 @@
             "rks_m": 0.9509050448321922,
             "s": 944389
         },
+        "MARENOL.LeaF.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "MARENOL.LeaF.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "MARENOL.LeaF.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "MARENOL.LeaF.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "MARENOL.LeaF.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "MOBILYS.Dachs.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "MOBILYS.Dachs.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "MOBILYS.Dachs.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "MOBILYS.Dachs.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
+        },
+        "MagentaPotion.EmoCo.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "MagentaPotion.EmoCo.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "MagentaPotion.EmoCo.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "MagentaPotion.EmoCo.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "MiracleForestVIPMix.Rinthlive.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "MiracleForestVIPMix.Rinthlive.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "MiracleForestVIPMix.Rinthlive.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "MiracleForestVIPMix.Rinthlive.0.Record.IN": {
             "a": 100.0,
@@ -338,11 +1975,47 @@
             "rks_m": 1.0,
             "s": 1000000
         },
+        "MiracleForestVIPMix.Rinthlive.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "NOONEYESMAN.MYUKKE.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "NOONEYESMAN.MYUKKE.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "NOONEYESMAN.MYUKKE.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "NOONEYESMAN.MYUKKE.0.Record.IN": {
             "a": 99.34241485595703,
             "c": 0,
             "rks_m": 0.9709875334606415,
             "s": 972281
+        },
+        "NYA.FLuoRiTe姜米條.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "NYA.FLuoRiTe姜米條.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "NYA.FLuoRiTe姜米條.0.Record.HD": {
             "a": 99.59112548828125,
@@ -350,11 +2023,77 @@
             "rks_m": 0.981910356697109,
             "s": 996320
         },
+        "NYA.FLuoRiTe姜米條.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "NextTime.SaMZIng.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "NextTime.SaMZIng.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "NextTime.SaMZIng.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "NextTime.SaMZIng.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Nhelv.Silentroom.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Nhelv.Silentroom.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Nhelv.Silentroom.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Nhelv.Silentroom.0.Record.IN": {
             "a": 98.40936279296875,
             "c": 0,
             "rks_m": 0.9305544583168295,
             "s": 930870
+        },
+        "NickofTime.P4koo.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "NickofTime.P4koo.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "NickofTime.P4koo.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "NickofTime.P4koo.0.Record.IN": {
             "a": 99.57717895507812,
@@ -362,11 +2101,35 @@
             "rks_m": 0.9812962388113876,
             "s": 996195
         },
+        "NonMelodicRagezMUGEdit.Normal1zer.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "NonMelodicRagezMUGEdit.Normal1zer.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "NonMelodicRagezMUGEdit.Normal1zer.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "NonMelodicRagezMUGEdit.Normal1zer.0.Record.IN": {
             "a": 97.1902847290039,
             "c": 0,
             "rks_m": 0.8790222842046519,
             "s": 926336
+        },
+        "NonMelodicRagezMUGEdit.Normal1zer.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "OnAndOn.ETIAfeatJenga.0.Record.IN": {
             "a": 98.5,
@@ -374,17 +2137,119 @@
             "rks_m": 0.9344444444444444,
             "s": 949874
         },
+        "Orthodox.tokiwa.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Orthodox.tokiwa.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Orthodox.tokiwa.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Orthodox.tokiwa.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "PRAW.Bluewind.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "PRAW.Bluewind.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "PRAW.Bluewind.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "PRAW.Bluewind.0.Record.IN": {
             "a": 98.80443572998047,
             "c": 0,
             "rks_m": 0.9475696738874023,
             "s": 924167
         },
+        "PRAW.Bluewind.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Palescreen.WyvernPfeatMadol.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Palescreen.WyvernPfeatMadol.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Palescreen.WyvernPfeatMadol.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Palescreen.WyvernPfeatMadol.0.Record.IN": {
             "a": 99.57979583740234,
             "c": 0,
             "rks_m": 0.9814114552614693,
             "s": 958069
+        },
+        "ParallelRetrogressionGameVer.Tetrajectory.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ParallelRetrogressionGameVer.Tetrajectory.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ParallelRetrogressionGameVer.Tetrajectory.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ParallelRetrogressionGameVer.Tetrajectory.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "PixelRebelz.Normal1zer.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "PixelRebelz.Normal1zer.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "PixelRebelz.Normal1zer.0.Record.HD": {
             "a": 99.4555892944336,
@@ -404,11 +2269,47 @@
             "rks_m": 0.944372953897756,
             "s": 924058
         },
+        "Poseidon.1112vsStar.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Poseidon.1112vsStar.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Poseidon.1112vsStar.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Poseidon.1112vsStar.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
+        },
+        "Protoflicker.Silentroom.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Protoflicker.Silentroom.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Protoflicker.Silentroom.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "Protoflicker.Silentroom.0.Record.IN": {
             "a": 99.15290069580078,
@@ -416,17 +2317,101 @@
             "rks_m": 0.9627055011620964,
             "s": 950723
         },
+        "RESSiSTANCE.ぐるたみん.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "RESSiSTANCE.ぐるたみん.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "RESSiSTANCE.ぐるたみん.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "RESSiSTANCE.ぐるたみん.0.Record.IN": {
             "a": 98.11890411376953,
             "c": 0,
             "rks_m": 0.9181431565296054,
             "s": 900712
         },
+        "RIPPER.Friedwav.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "RIPPER.Friedwav.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "RIPPER.Friedwav.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "RIPPER.Friedwav.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "RIPPER.Friedwav.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Re_NascencePsystyleVer.Rinth_live.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Re_NascencePsystyleVer.Rinth_live.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Re_NascencePsystyleVer.Rinth_live.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Re_NascencePsystyleVer.Rinth_live.0.Record.IN": {
             "a": 99.87303924560547,
             "c": 1,
             "rks_m": 0.994365259821061,
             "s": 998857
+        },
+        "Reimei.影虎.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Reimei.影虎.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Reimei.影虎.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "Reimei.影虎.0.Record.IN": {
             "a": 100.0,
@@ -440,11 +2425,65 @@
             "rks_m": 0.6308704658864457,
             "s": 825142
         },
+        "Rrharil.TeamGrimoire.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Rrharil.TeamGrimoire.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Rrharil.TeamGrimoire.0.Record.IN": {
             "a": 98.78846740722656,
             "c": 0,
             "rks_m": 0.9468789520364163,
             "s": 960635
+        },
+        "RubbishSorting.CtymaxvsNceS.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "RubbishSorting.CtymaxvsNceS.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "RubbishSorting.CtymaxvsNceS.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "RubbishSorting.CtymaxvsNceS.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SIGMA.Kryexe.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SIGMA.Kryexe.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SIGMA.Kryexe.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "SIGMA.Kryexe.0.Record.IN": {
             "a": 98.38215637207031,
@@ -452,11 +2491,125 @@
             "rks_m": 0.929388390859635,
             "s": 958102
         },
+        "SURREALISM.Itsuki.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SURREALISM.Itsuki.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SURREALISM.Itsuki.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "SURREALISM.Itsuki.0.Record.IN": {
             "a": 98.82933044433594,
             "c": 0,
             "rks_m": 0.9486470159006385,
             "s": 937276
+        },
+        "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Shadow.SumaiLightvs姜米條.0.Record.AT": {
+            "a": 96.40955352783203,
+            "c": 0,
+            "rks_m": 0.8467906782095734,
+            "s": 896336
+        },
+        "Shadow.SumaiLightvs姜米條.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Shadow.SumaiLightvs姜米條.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Shadow.SumaiLightvs姜米條.0.Record.IN": {
+            "a": 98.3511962890625,
+            "c": 0,
+            "rks_m": 0.9280623307125069,
+            "s": 938018
+        },
+        "SnowDesert.WyvernP.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SnowDesert.WyvernP.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SnowDesert.WyvernP.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SnowDesert.WyvernP.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SparkleNewLife.rider.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SparkleNewLife.rider.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SparkleNewLife.rider.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SparkleNewLife.rider.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "Spasmodic.姜米條颶風元力上人.0.Record.AT": {
             "a": 96.53800201416016,
@@ -464,11 +2617,65 @@
             "rks_m": 0.8520521537424065,
             "s": 897175
         },
+        "Spasmodic.姜米條颶風元力上人.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Spasmodic.姜米條颶風元力上人.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Spasmodic.姜米條颶風元力上人.0.Record.IN": {
             "a": 97.69978332519531,
             "c": 0,
             "rks_m": 0.9003809856882111,
             "s": 929838
+        },
+        "SpeedUp.DarTokki.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SpeedUp.DarTokki.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SpeedUp.DarTokki.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SpeedUp.DarTokki.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Starduster.Quree.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Starduster.Quree.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Starduster.Quree.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "Starduster.Quree.0.Record.IN": {
             "a": 98.36384582519531,
@@ -482,11 +2689,35 @@
             "rks_m": 0.9419147028153428,
             "s": 955003
         },
+        "Stasis.Maozon.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Stasis.Maozon.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "Stasis.Maozon.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
+        },
+        "SultanRage.MonstDeath.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "SultanRage.MonstDeath.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "SultanRage.MonstDeath.0.Record.HD": {
             "a": 99.68563079833984,
@@ -494,11 +2725,53 @@
             "rks_m": 0.9860768394298954,
             "s": 997171
         },
+        "SultanRage.MonstDeath.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "TheMountainEater.PaulBazooka.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "TheMountainEater.PaulBazooka.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "TheMountainEater.PaulBazooka.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "TheMountainEater.PaulBazooka.0.Record.IN": {
             "a": 99.17503356933594,
             "c": 0,
             "rks_m": 0.9636709090626948,
             "s": 931743
+        },
+        "TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX.0.Record.IN": {
             "a": 100.0,
@@ -506,11 +2779,173 @@
             "rks_m": 1.0,
             "s": 1000000
         },
+        "Trane.MALVA.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Trane.MALVA.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Trane.MALVA.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Trane.MALVA.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "UnorthodoxThoughts.Joulez.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "UnorthodoxThoughts.Joulez.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "UnorthodoxThoughts.Joulez.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "UnorthodoxThoughts.Joulez.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "WATER.A39沙包P.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "WATER.A39沙包P.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "WATER.A39沙包P.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "WATER.A39沙包P.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
+        },
+        "Wavetapper.Frums.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Wavetapper.Frums.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Wavetapper.Frums.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Wavetapper.Frums.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Wintercube.CtymaxfeatNceS.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Wintercube.CtymaxfeatNceS.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Wintercube.CtymaxfeatNceS.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Wintercube.CtymaxfeatNceS.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "Wintercube.CtymaxfeatNceS.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "WithYou.Cashew.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "WithYou.Cashew.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "WithYou.Cashew.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "WithYou.Cashew.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "XING.ginkiha.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "XING.ginkiha.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "XING.ginkiha.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "XING.ginkiha.0.Record.IN": {
             "a": 99.6554183959961,
@@ -524,11 +2959,41 @@
             "rks_m": 1.0,
             "s": 1000000
         },
+        "YouaretheMiserable.tpazolite.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "YouaretheMiserable.tpazolite.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "YouaretheMiserable.tpazolite.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
+        },
+        "cryout.JuE.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "cryout.JuE.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "cryout.JuE.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "cryout.JuE.0.Record.IN": {
             "a": 98.68348693847656,
@@ -536,11 +3001,77 @@
             "rks_m": 0.94234421289089,
             "s": 961003
         },
+        "dBdoll.YUESTEVENuen.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "dBdoll.YUESTEVENuen.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "dBdoll.YUESTEVENuen.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "dBdoll.YUESTEVENuen.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "energytrixxx.KAH.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "energytrixxx.KAH.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "energytrixxx.KAH.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "energytrixxx.KAH.0.Record.IN": {
             "a": 99.07527160644531,
             "c": 0,
             "rks_m": 0.9593232430528023,
             "s": 983720
+        },
+        "inferior.姜米條.0.Record.IN": {
+            "a": 99.36424255371094,
+            "c": 0,
+            "rks_m": 0.9719437122787636,
+            "s": 979709
+        },
+        "lifeflashesbeforeweebeyes.BilliumMoto.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "lifeflashesbeforeweebeyes.BilliumMoto.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "lifeflashesbeforeweebeyes.BilliumMoto.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "lifeflashesbeforeweebeyes.BilliumMoto.0.Record.IN": {
             "a": 97.07042694091797,
@@ -548,11 +3079,47 @@
             "rks_m": 0.8740349743166007,
             "s": 900864
         },
+        "mechanted.rareguy.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "mechanted.rareguy.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "mechanted.rareguy.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "mechanted.rareguy.0.Record.IN": {
             "a": 96.6767349243164,
             "c": 0,
             "rks_m": 0.857753201951474,
             "s": 906344
+        },
+        "microwav.dandeless.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "microwav.dandeless.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "microwav.dandeless.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "microwav.dandeless.0.Record.IN": {
             "a": 99.40678405761719,
@@ -560,11 +3127,71 @@
             "rks_m": 0.973808627328318,
             "s": 994661
         },
+        "modulus.PTB10.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "modulus.PTB10.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "modulus.PTB10.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "modulus.PTB10.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "opia.rN.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "opia.rN.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "opia.rN.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "opia.rN.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
+        },
+        "parsey.siqlo.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "parsey.siqlo.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "parsey.siqlo.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "parsey.siqlo.0.Record.IN": {
             "a": 100.0,
@@ -577,6 +3204,18 @@
             "c": 0,
             "rks_m": 0.840463351851795,
             "s": 889867
+        },
+        "volcanic.DETROakaルゼ.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "volcanic.DETROakaルゼ.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "volcanic.DETROakaルゼ.0.Record.IN": {
             "a": 98.79032135009766,
@@ -596,6 +3235,126 @@
             "rks_m": 1.0,
             "s": 1000000
         },
+        "もぺもぺ.LeaF.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "もぺもぺ.LeaF.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "もぺもぺ.LeaF.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "もぺもぺ.LeaF.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ジングルベルJingleBell.A39沙包P.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ジングルベルJingleBell.A39沙包P.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ジングルベルJingleBell.A39沙包P.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "ジングルベルJingleBell.A39沙包P.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "万吨匿名信.闫东炜.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "万吨匿名信.闫东炜.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "万吨匿名信.闫东炜.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "万吨匿名信.闫东炜.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "万吨匿名信.闫东炜.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "云女孩.符白牙SiYFics.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "云女孩.符白牙SiYFics.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "云女孩.符白牙SiYFics.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "云女孩.符白牙SiYFics.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "云女孩.符白牙SiYFics.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "光.姜米條.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "光.姜米條.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "光.姜米條.0.Record.HD": {
             "a": 100.0,
             "c": 1,
@@ -614,11 +3373,47 @@
             "rks_m": 0.7871558708835817,
             "s": 886466
         },
+        "大和撫子WildDances.adapatorvsDRIVE.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "大和撫子WildDances.adapatorvsDRIVE.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "大和撫子WildDances.adapatorvsDRIVE.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "大和撫子WildDances.adapatorvsDRIVE.0.Record.IN": {
             "a": 99.55589294433594,
             "c": 0,
             "rks_m": 0.9803593066998147,
             "s": 950694
+        },
+        "尊師TheGuru.rider.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "尊師TheGuru.rider.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "尊師TheGuru.rider.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "尊師TheGuru.rider.0.Record.IN": {
             "a": 99.03115844726562,
@@ -626,11 +3421,65 @@
             "rks_m": 0.9574039082509684,
             "s": 962249
         },
+        "开心病.闫东炜.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "开心病.闫东炜.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "开心病.闫东炜.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "开心病.闫东炜.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "开心病.闫东炜.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "心之所向.姜米條.0.Record.IN": {
+            "a": 99.27770233154297,
+            "c": 0,
+            "rks_m": 0.9681555179065312,
+            "s": 934032
+        },
         "月下缭乱.月見静華vsLUNARiUM.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
+        },
+        "望影の方舟Six.SeURa.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "望影の方舟Six.SeURa.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "望影の方舟Six.SeURa.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "望影の方舟Six.SeURa.0.Record.IN": {
             "a": 98.46623229980469,
@@ -638,11 +3487,47 @@
             "rks_m": 0.9329942470817701,
             "s": 921562
         },
+        "桜樹街道.kozatosnow.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "桜樹街道.kozatosnow.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "桜樹街道.kozatosnow.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "桜樹街道.kozatosnow.0.Record.IN": {
             "a": 100.0,
             "c": 1,
             "rks_m": 1.0,
             "s": 1000000
+        },
+        "混乱Confusion.OnlyMyBlackScore.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "混乱Confusion.OnlyMyBlackScore.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "混乱Confusion.OnlyMyBlackScore.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "混乱Confusion.OnlyMyBlackScore.0.Record.IN": {
             "a": 100.0,
@@ -650,11 +3535,53 @@
             "rks_m": 1.0,
             "s": 1000000
         },
+        "混乱Confusion.OnlyMyBlackScore.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "游园地.椒盐菠萝.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "游园地.椒盐菠萝.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "游园地.椒盐菠萝.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "游园地.椒盐菠萝.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "狂喜蘭舞.LeaF.0.Record.AT": {
             "a": 99.15849304199219,
             "c": 0,
             "rks_m": 0.9629493865381099,
             "s": 988125
+        },
+        "狂喜蘭舞.LeaF.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "狂喜蘭舞.LeaF.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         },
         "狂喜蘭舞.LeaF.0.Record.IN": {
             "a": 98.77066040039062,
@@ -668,18 +3595,139 @@
             "rks_m": 0.9512268001287256,
             "s": 935493
         },
+        "華灯爱.闫东炜.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "華灯爱.闫东炜.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "華灯爱.闫东炜.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "華灯爱.闫东炜.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "華灯爱.闫东炜.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "萤火虫の怨.闫东炜.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "萤火虫の怨.闫东炜.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "萤火虫の怨.闫东炜.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "萤火虫の怨.闫东炜.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "萤火虫の怨.闫东炜.0.Record.Legacy": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "重生.姜米條.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "重生.姜米條.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "重生.姜米條.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "重生.姜米條.0.Record.IN": {
             "a": 99.77222442626953,
             "c": 0,
             "rks_m": 0.9899022617660476,
             "s": 973617
         },
+        "雪降りメリクリ.A39.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "雪降りメリクリ.A39.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "雪降りメリクリ.A39.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
         "雪降りメリクリ.A39.0.Record.IN": {
             "a": 99.14802551269531,
             "c": 0,
             "rks_m": 0.9624929168738746,
             "s": 957721
+        },
+        "风屿.闫东炜.0.Record.AT": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "风屿.闫东炜.0.Record.EZ": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "风屿.闫东炜.0.Record.HD": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
+        },
+        "风屿.闫东炜.0.Record.IN": {
+            "a": 0.0,
+            "c": 0,
+            "rks_m": 0,
+            "s": 0
         }
     },
+    "playerid": "yuhao7370",
     "status": true
 }
