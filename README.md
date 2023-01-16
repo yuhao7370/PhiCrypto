@@ -1,7 +1,7 @@
 # PhiCrypto
  Phigros存档解密API及请求方法实例
 
-#注：本项目目前已停止服务
+# 注：本项目目前已停止服务
 
 # 返回值说明
  `status` 有`True`和`False`两种值，表示是否成功解码
